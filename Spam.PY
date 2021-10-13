@@ -22,5 +22,5 @@ def random_spam(i,word):
 
 # HOW TO USE IT
 # 1) build the program
-# 2) click the chat you want to spam mesages (YOU HAVE 5 SECONDS FOR This)
+# 2) click the chat you want to spam mesages (YOU HAVE 5 SECONDS FOR THIS!!!)
 # 3) dont move your mouse until loop is done. just chill and prank your friend :)
